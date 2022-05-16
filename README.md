@@ -1,2 +1,2 @@
-# ExcnageRateBot
+# ExchageRateBot
  Данный бот служит, для получения курса валют в г.Несвиже
