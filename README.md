@@ -15,4 +15,4 @@ Token- даёт при помощи ключа доступ
 скидывается.
 
 [config]-сюда перемещаем local_config и config.py, и дабавляем
-gitignore...
+gitignore
